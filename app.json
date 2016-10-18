@@ -1,0 +1,7 @@
+{
+  "name": "testbot",
+  "description": "testbot for start",
+  "repository": "https://github.com/sayondutta/testbot.git",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["fb bot", "1st bot", "yoyo bot"]
+}
