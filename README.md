@@ -37,3 +37,5 @@ No experience with Heroku? Its super easy: https://devcenter.heroku.com/articles
 This seems like another tutorial that goes more in-depth (although in Node.js but should be fairly easy to translate, maybe?) - https://github.com/jw84/messenger-bot-tutorial
 
 I don't have much more experience with bots than this, but I would be happy to try and answer any questions you have! You can contact me at reparadocs (at) gmail (dot) com
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
